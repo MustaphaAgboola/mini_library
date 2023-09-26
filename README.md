@@ -1,1 +1,2 @@
 # mini_library
+"This is a CRUD REST API designed for managing books. It has been developed using JAVA and Spring Boot, with security features provided by Spring Security. To utilize this API, users are required to register and obtain a bearer token for authentication."
